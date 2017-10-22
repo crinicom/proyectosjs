@@ -6,5 +6,6 @@ https://medium.com/of-all-things-tech-progress/starting-with-authentication-a-tu
 
 # CREAR LA DB
 # apis
+https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
 # testing
 # capa ui
