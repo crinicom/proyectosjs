@@ -9,3 +9,6 @@ https://medium.com/of-all-things-tech-progress/starting-with-authentication-a-tu
 https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
 # testing
 # capa ui
+# multiusuario
+http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/
+
