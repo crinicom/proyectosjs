@@ -1,5 +1,28 @@
 # proyectosjs
 Sistema en js
+Me parece que tengo dos opciones: METEOR, que lo veo muy encapsulado, o SAILS.JS, que lo entiendo mejor
+https://scotch.io/tutorials/build-a-sailsjs-app-from-api-to-authentication
+me parece que voy por Sails, que maneja el tema de usuarios en forma nativa.
+
+Empiezo a pensar en lo que voy a necesitar para mi app.
+Voy a pensar en la estructura y las funcionalidades, aunque sea en forma desordenada, porque las funcionalidades dan forma a la db por ejemplo.
+
+LO BASICO
+##Project Charter
+Un formulario para cargar la información básica del Proyecto:
+Título del proyecto
+SponsorS (personas)
+FU esperable: que cuado tipee parte del nombre me sugiera gente en la DB
+Contexto y aclance
+Antecedentes
+ObjetivoS <- ver qué valor tiene mostrarlos a lo largo del desarrollo
+Equipo de trabajo: personas <-- ver accesibilidad al proyecto a través de esto
+InvitadoS <- por temas de accesibilidad
+Hitos de Proyecto: hito+fecha <- FU esp: la gantt debe tener estos hitos identificados
+
+
+
+
 
 # MANEJAR USUARIOS
 https://medium.com/of-all-things-tech-progress/starting-with-authentication-a-tutorial-with-node-js-and-mongodb-25d524ca0359
