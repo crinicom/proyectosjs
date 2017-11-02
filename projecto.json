@@ -1,0 +1,59 @@
+{
+  "charter": {
+    "name": "",
+    "sponsors": ["nom1", "nom2"],
+    "contexto": "",
+    "alcance": "",
+    "antecedentes":"",
+    "objetivo": [
+    {
+      "id":"",
+      "definición": "",
+      "meta":""
+    }    ],
+    "hito": [
+    {
+      "definición": "",
+      "fecha":""
+    }    ], 
+    "equipo": ["nom1", "nom2"]  
+    
+  },
+  "edt": {
+    "tarea": [{
+      "id":"",
+      "texto": "",
+      "depende_de":"",
+      "stk_comm": [{
+        "id":"",
+        "persona":"",
+        "plan_comm":"",
+        "riesgo": [{
+          "id":"",
+          "desc": "",
+          "impacto":"",
+          "plan_mtg":""
+        }]
+      }]
+    }]
+    
+  },
+  "item_gantt": [{
+    "id":"",
+    "orden":"",
+    "depende_de":"",
+    "texto":"",
+    "resp":"",
+    "fecha_ini":"",
+    "fecha_fin":"",
+    "duracion":"",
+    "comentario":[{
+      "id":"",
+      "texto":"",
+      "resp":"",
+      "fecha_crea":"",
+      "estado":""
+    }]
+    
+  }]
+}
