@@ -7,6 +7,7 @@ http://digitaldrummerj.me/sails-tutorial/#chapter11.2
 
 SCREENCAST https://youtu.be/AmjiDC_JUt4
 
+VOY SEGUIR ESTE TUTORIAL: https://www.youtube.com/watch?v=eqc7sYOpWg0&list=PLF8BRFFRWv9VkafkA4JtgY0I5NIzX2ZI9
 
 
 # MANEJAR USUARIOS
