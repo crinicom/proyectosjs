@@ -5,6 +5,7 @@ https://scotch.io/tutorials/build-a-sailsjs-app-from-api-to-authentication <tien
 me parece que voy por Sails, que maneja el tema de usuarios en forma nativa.
 http://digitaldrummerj.me/sails-tutorial/#chapter11.2
 
+SCREENCAST https://youtu.be/AmjiDC_JUt4
 
 
 
